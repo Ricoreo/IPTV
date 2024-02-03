@@ -149,6 +149,10 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/2000000002000000090/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/2000000002000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海频道",第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
+#EXTINF:-1 tvg-id="东方购物-1" tvg-name="东方购物-1" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="上海频道",东方购物-1
+https://ocj2.kksmg.com/ocj1/ocj1.m3u8
+#EXTINF:-1 tvg-id="东方购物-2" tvg-name="东方购物-2" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="上海频道",东方购物-2
+https://ocj2.kksmg.com/ocj2/ocj2.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="国际频道",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="国际频道",凤凰资讯
