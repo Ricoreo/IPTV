@@ -140,7 +140,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott
 #EXTINF:-1 tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="上海频道",上海教育
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海频道",五星体育
-http://8.138.7.223/tv/shtv.php?id=wxty
+http://116.235.252.144:8888/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海频道",东方影视
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海频道",东方财经
